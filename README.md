@@ -7,8 +7,6 @@ This project explores the use of **Convolutional Neural Networks (CNNs)** for de
 - Residual connections
 - Transfer learning (ResNet-18)
 
-The project was conducted as part of the **DAT341 - Applied Machine Learning** course at **Chalmers University of Technology**. Read the full report in the PDF in this repo.
-
 ## Results
 - **Layer Normalization** significantly improved accuracy.
 - **Residual connections** had a smaller-than-expected impact.
